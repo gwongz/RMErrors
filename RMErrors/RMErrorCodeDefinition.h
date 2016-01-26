@@ -6,7 +6,8 @@
 //  Copyright (c) 2015 Ride. All rights reserved.
 //
 
-@import Foundation;
+
+#import <Foundation/Foundation.h>
 #import "RMErrorCodeBoundary.h"
 #import "RMErrorDescription.h"
 

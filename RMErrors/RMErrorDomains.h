@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Ride. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 #import "RMErrorDomainDefinition.h"
 #import "RMErrorDescription.h"
 
